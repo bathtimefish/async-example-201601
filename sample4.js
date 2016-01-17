@@ -9,7 +9,7 @@
  * $ npm install --save babel-plugin-syntax-async-functions
  * $ npm install --save babel-plugin-transform-regenerator
  * $ npm install --save babel-preset-es2015
- * --- babel.rc ---
+ * --- .babelrc ---
  * {
  *   "presets": ["es2015"],
  *   "plugins": ["syntax-async-functions", "transform-regenerator"]
